@@ -1,0 +1,3 @@
+filepaths,setting,No,name,filenames,10mm,30mm,50mm,offset,target_size
+dataset/WC_TAN-MS/signal/20230518_092851_DOE4-B_no02.pickle,DOE4-B,2,DOE4-B_02,20230518_092851_DOE4-B_no02.csv,45.998,46.0,46.001,0.012,46
+dataset/WC_TAN-MS/signal/20230518_093044_DOE4-B_no03.pickle,DOE4-B,3,DOE4-B_03,20230518_093044_DOE4-B_no03.csv,45.998,46.0,46.001,0.012,46
